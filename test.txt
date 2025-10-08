@@ -1,1 +1,3 @@
 Here goes some example text! :)
+
+original file content.
