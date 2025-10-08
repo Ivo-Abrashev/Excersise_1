@@ -1,3 +1,7 @@
 Here goes some example text! :)
 
+Промяна от Копие 2 (Конфликтно)
+
 original file content.
+
+Промяна директно в GitHub (Remote)
